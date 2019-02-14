@@ -1,1 +1,1 @@
-include ':app', ':lib_helloworld', ':lib_helloworld2'
+include ':app', ':lib_helloworld2'
